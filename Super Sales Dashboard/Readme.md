@@ -2,17 +2,17 @@
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/c0b31de3-cb1d-43c4-b7ae-137971e504cb/fb2a72e11e438e6e5ecb?experience=power-bi
 
-##Project Spotlight: Superstore Sales Data Analysis and Forecasting 
+## Project Spotlight: Superstore Sales Data Analysis and Forecasting 
 
 
 
-##Project
+## Project
 
 📊Objective: Utilize data analysis techniques to uncover valuable insights and deliver precise sales forecasts.
 
 
 
-##Key Deliverables:
+## Key Deliverables:
 
 - Dashboard Creation: Identified crucial KPIs, designed an intuitive dashboard, and incorporated interactive visualizations.
 
@@ -24,12 +24,12 @@
 
 
 
-##Project Learnings: 
+## Project Learnings: 
 Mastered data analysis techniques, with a focus on time series analysis, to create an insightful and interactive dashboard.
 
 
 
-##Results: 
+## Results: 
 Developed a dashboard providing comprehensive insights into superstore sales data, a 15-day sales forecast, and actionable recommendations for enhancing sales performance.
 
 
