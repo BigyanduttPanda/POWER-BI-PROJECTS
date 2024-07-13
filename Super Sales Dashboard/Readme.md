@@ -1,6 +1,6 @@
 # SuperStore Sales Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/c0b31de3-cb1d-43c4-b7ae-137971e504cb/fb2a72e11e438e6e5ecb?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMDdmY2Y0ZDgtNmJlYi00OGMxLWIwNzAtMzVhOWI5MjllYWFkIiwidCI6ImE1Njc5ZTcyLTU4MWEtNGM2My05OTQ2LTg5YTM4NzJmOTkwOCJ9&pageName=fb2a72e11e438e6e5ecb
 
 ## Project Spotlight: Superstore Sales Data Analysis and Forecasting 
 
