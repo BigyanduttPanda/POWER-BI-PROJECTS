@@ -22,7 +22,15 @@
 
 - Actionable Insights: Delivered strategic recommendations based on data-driven insights.
 
-
+## Key Insights-
+✅ Orders: 22K+ | Sales: $1.6M | Profit: $175K
+✅ Sales & Profit Trends: Monthly analysis for 2019 & 2020
+✅ Payment Modes: Online, COD, and Card-based transactions
+✅ Region & Segment Performance: Identifying top-performing areas
+✅ Shipping & Delivery Insights: Analyzing ship modes & avg delivery days
+✅ Category-wise Performance: Deep dive into product categories & subcategories
+✅ Profit Trends Analysis: Visualizing profit fluctuations across months
+✅ 3D Visualization Map: Showcasing area-wise performance with geographic insights 🌍
 
 ## Project Learnings: 
 Mastered data analysis techniques, with a focus on time series analysis, to create an insightful and interactive dashboard.
