@@ -1,6 +1,6 @@
 # Hospital Analysis Dashboard - Project Overview
 
-Dashboard Link: https://app.powerbi.com/links/nZPf0fMyLT?ctid=25ce0261-bbd6-49cd-a1e2-54260886d159&pbi_source=linkShare&bookmarkGuid=0d628acb-a1dd-4388-ad3b-60c33cca0a51
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZTY3YjBkZDMtNTM3ZS00YjBiLWE3YTItNWFhMjhlNGQ1YWNkIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=7b11eeea706638319e74
 
 
 ## Project Description:
